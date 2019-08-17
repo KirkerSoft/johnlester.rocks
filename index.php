@@ -76,7 +76,8 @@
 				</tr>
 				<tr>
 					<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-					<td>Responsible for the acquisition, preparation and deployment of all technologies related to the opening of new retail stores, as well as the relocations, expansions and remodels of existing stores. Acted as the liaison with multiple internal teams and multiple external service providers to support all technology aspects. Oversaw more than fifty $100k+ projects in 2018 alone. Developed processes to streamline project builds, implemented budgeting tools and integrated with vendor systems. Working as a team we were able to save Sephora over $600,000 in 2018 by replacing a key partner with one that was more agile, thereby obtaining better service for a much lower price.</td>
+					<td>Responsible for the acquisition, preparation and deployment of all technologies related to the opening of new retail stores, as well as the relocations, expansions and remodels of existing stores. Acted as the liaison with multiple internal teams and multiple external service providers to support all technology aspects. Oversaw more than fifty $100k+ projects in 2018 alone. Developed processes to streamline project builds, implemented budgeting tools and integrated with vendor systems. Working as a team we were able to save Sephora over $600,000 in 2018 by replacing a key partner with one that was more agile, thereby obtaining better service for a much lower price.<br>
+					<br></td>
 				</tr>
 				<tr>
 					<td align=center rowspan=2 valign=top>MAR 2012<br>
@@ -90,7 +91,8 @@
 						<li> Implementation of a Cisco VPN solution to link offices and allow researchers in the field secure remote access to vital enterprise systems, 
 						<li> Rehabilitation of the company BSL3 lab, 
 						<li> Evaluated, purchased and implemented a Vaisala Veriteq validated continuous monitoring system for all xGMP lab equipment.</ul>
-						In addition, I assisted with technical writing of procedures and other documentation for xGMP compliance.</td>
+						In addition, I assisted with technical writing of procedures and other documentation for xGMP compliance.<br>
+					<br></td>
 				</tr>
 				<tr>
 					<td align=center rowspan=2 valign=top>&nbsp;APR&nbsp;1998&nbsp;<br>
@@ -106,7 +108,7 @@
 						<li>OnForce (contracts for AT&amp;T, Dell),
 						<li>TekSource (contracts for Office Depot, Williams Sonoma),
 						<li>ServiceLive (contracts for OfficeMax, Sears)
-						<li>Fujitsu, Xerox, Gurus2Go and many more.</ul></td>
+						<li>Fujitsu, Xerox, Gurus2Go and many more.</ul><br></td>
 				</tr>
 				<tr>
 					<td align=center rowspan=2 valign=top>JUN 1991<br>
